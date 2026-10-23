@@ -1,7 +1,35 @@
 # Name: Florence Muthoni Wanjiru
 # Project Title: Python Machine Learning Assignment
-# Part A Supervised Machine Learning — Predicting student examination scores using Linear Regression.
+# Part A Supervised Machine Learning — Predicting student examination scores using Linear Regression. 
+supervised machine learning is a machine learning technique in which a model learns from labelled data to make prediction abut a new data.
+file supervised_ml.py file contains the code.
+# supervised output
+Entered hour studied: 6
+Predicted exam score: 69.18
+
 # Part B Unsupervised Machine Learning — Grouping customers based on shopping behaviour using K-Means Clustering.
+It's a machine larning technique the identifies patterns, relationship or groups in data without predefined labels.
+Unsupervised_ml.py file contains the code
+# unsupervised output
+# Customer Segmentation results
+customer 1 belongs to cluster 2
+customer 2 belongs to cluster 2
+customer 3 belongs to cluster 2
+customer 4 belongs to cluster 0
+customer 5 belongs to cluster 0
+customer 6 belongs to cluster 0
+customer 7 belongs to cluster 1
+customer 8 belongs to cluster 1
+customer 9 belongs to cluster 1
+customer 10 belongs to cluster 2
+# total customers in each cluster
+cluster 0 - 3 customers
+Cluster 1 - 3 customers
+Cluster 2 - 4 customers
+
+
+
+
 # part c: Theory Questions
 Q1 what is supervised machine learning?
 Ans. 
